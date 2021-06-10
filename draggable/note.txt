@@ -1,0 +1,6 @@
+This is note for Drag Operations
+
+Source of it is from MDN 
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API/Drag_operations
+
